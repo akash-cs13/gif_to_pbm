@@ -1,6 +1,7 @@
 ## Demo
-![Demo](https://i.imgur.com/3561xyI.gif)
+https://user-images.githubusercontent.com/84382172/215270184-d9fa71e6-bfaa-4808-ab59-48ca8b79f542.mp4
 
+## Readme
 Convert your gifs into a series of pbm images to play gifs on I2C Oled Displays. Use the provided _animate.py_ script to play animations.<br /> 
 ![Oled](https://i.imgur.com/DjaMIxR.gif)
 
