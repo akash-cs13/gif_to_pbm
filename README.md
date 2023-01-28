@@ -1,4 +1,8 @@
-Convert your gifs into a series of pbm images to play gifs on I2C Oled Displays. Use the provided _animate.py_ script to play animations.<br /> ![Demo](https://i.imgur.com/DjaMIxR.gif)
+Convert your gifs into a series of pbm images to play gifs on I2C Oled Displays. Use the provided _animate.py_ script to play animations.<br /> 
+|![Demo](https://i.imgur.com/3561xyI.gif)| ![Oled](https://i.imgur.com/DjaMIxR.gif)|
+| ----- | ----- | 
+| *Demo*  | *Oled Display* |
+
 
 ## Installation
 This converter is built for Windows, you can use the **executable** file in _/exe_ to directly run the application or use the following commands to run the application using python. You can copy the generated pbm images and play them on Oled Display.
