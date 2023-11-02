@@ -32,6 +32,6 @@ Run the animate.py script using
 ```
 cd gif_to_pbm
 pipenv shell
-python animate.py
+python animation.py
 ```
 Place your own converted gif into the folder and change the name to your animation folder on _line 31_.
